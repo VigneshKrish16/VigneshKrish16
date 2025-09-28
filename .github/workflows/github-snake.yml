@@ -1,0 +1,30 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: VigneshKrish16
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit & Push
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add dist/
+          git commit -m "Update GitHub contribution snake"
+          git push
