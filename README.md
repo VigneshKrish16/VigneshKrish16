@@ -1,16 +1,17 @@
 <h1 align="center">Hey 👋 What's Up? I'm Vignesh K</h1>
-<h3 align="center">AI/ML Engineer | Generative AI Specialist | LLM & RAG Systems</h3>
+<h3 align="center">AI & Data Science Enthusiast | Machine Learning Engineer | Generative AI Explorer</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🎓 **BTech in Artificial Intelligence and Data Science** graduate from SMVEC (2025)
-- 🤖 **AI/ML Engineer** specializing in **Generative AI, LLMs, and RAG systems**
-- ☁️ **AWS Certified** in Machine Learning, Cloud Development, and Data Analytics
-- 🏆 **Hackathon Champion** - Vertex Boeing Hackathon (2nd/1200), Coding Fest 1.0 (2nd/450)
-- 📚 **Published Researcher** in bias mitigation for RAG systems (*IJIRST*)
-- 💡 Passionate about building **production-ready AI systems** and **scalable ML solutions**
-- 🔭 Currently exploring **advanced RAG architectures** and **LLM optimization techniques**
+- 🎓 Final-year **BTech AI & DS** student at SMVEC (Graduating 2025)  
+- 🤖 Passionate about **Machine Learning, Deep Learning & Generative AI**  
+- ☁️ Skilled in **Cloud (AWS)**, building **AI-driven platforms**, and **RAG systems**  
+- 🏆 Hackathon Winner @ **Vertex Booming Hackathon, Reva Hackathon, CyberX**  
+- 💡 Working on projects like **RAG Enhanced Retrieval Engine**, **All Disease Risk Prediction Model**, **CareSync - AI in Health Insurance**  
+- 💼 Full-Stack Developer | AI Enthusiast | Open-Source Advocate
+- 🔭 Currently diving deep into **LLMs (OpenAI, Claude, Gemini)** and building **AI-powered applications**
+- ⚡ Obsessed with **clean code, scalable systems**, and bridging the gap between ideas and execution
 
 ---
 
@@ -18,75 +19,60 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-k-/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/VigneshKrish16) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@vigneshkrish16) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vignesh.personal16@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vigneshkrishna1607@gmail.com) 
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18335030/vignesh-k) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=vercel&logoColor=white)](https://vignesh.ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=vercel&logoColor=white)](https://vignesh-portfolio.com)  
+[![Twitter](https://img.shields.io/twitter/follow/pythonhubdev?color=blue&label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/pythonhubdev)
 
 ---
 
-## 💻 Core AI/ML Stack
+## 💻 Tech Stack
 
-### 🤖 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-### 🧠 Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=ollama&logoColor=white)
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🚀 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![Litestar](https://img.shields.io/badge/Litestar-202235?style=for-the-badge&logo=litestar&logoColor=yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow%20-%23017CEE.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
----
-
-## 🎯 Featured Projects
-
-### 🔍 RAG Enhanced Retrieval Engine
-**Lead Developer** | *Jun 2024 - Present*
-- Developed cutting-edge RAG system with Streamlit for advanced query answering
-- Combined web scraping, NLP, and graph databases to boost retrieval efficiency by 40%
-- Implemented bias mitigation techniques for equitable AI responses
-
-### 🏥 CareSync - AI Health Insurance
-**Lead Developer** | *Aug 2024 - Sep 2024*
-- Engineered AI-driven models for personalized health insurance plans
-- Integrated real-time data processing with machine learning for accurate settlements
-- Improved efficiency in insurance claim processing
-
-### 📧 Email Automation with AI
-**Lead Developer** | *Jan 2025 - Feb 2025*
-- Built email automation platform integrating Email and Outlook APIs
-- Implemented AI response generation using Ollama and LangChain
-- Enhanced response accuracy by 30% through emotion analysis
-
-### 📊 Data Science Explorer
-**Lead Developer** | *Apr 2024 - May 2024*
-- Developed no-code platform for data analysis and ML modeling
-- Enabled interactive visualizations and automated preprocessing
-- Enhanced data-driven decision-making by 30%
+### 🎨 Design & Markup
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -96,72 +82,35 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=VigneshKrish16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VigneshKrish16&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshKrish16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshKrish16&theme=dark&hide_border=false&layout=compact&langs_count=8)
+![](https://github-profile-trophy.vercel.app/?username=VigneshKrish16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🎯 What I'm Building
 
-<div align="center">
+```yaml
+Current Focus:
+  - Quantivio: Open-source hub for developer collaboration
+  - AI/ML: Experimenting with LLMs, prompt engineering, and AI integration
+  - Open-Source: Contributing to FAAG + PyNotion + Framework Benchmarks
+  - Testing: Advanced pytest implementations and test-driven development
 
-| **Hackathons** | **Research** | **Certifications** |
-| :--- | :--- | :--- |
-| 🥈 Vertex Boeing Hackathon | 📄 Bias Resistant RAG Paper | 🏅 AWS ML Foundation |
-| 🥈 Coding Fest 1.0 | *IJIRST Publication* | 🏅 AWS Cloud Developing |
-| 🏆 Reva Hackathon Finalist |  | 🏅 AWS Data Analytics |
-| 🏆 CyberX Finalist |  | 🏅 Google Cloud LLMs |
+Projects in Progress:
+  - RAG Enhanced Retrieval Engine
+  - All Disease Risk Prediction Model  
+  - CareSync - AI in Health Insurance
+  - Scaffoldr: Project scaffolding tool
 
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VigneshKrish16&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-**SMVEC** - BTech AI & Data Science (2021-2025)  
-*CGPA: 8.29/10*
-
-**AWS Certifications:**
-- AWS Academy Machine Learning Foundation
-- AWS Academy Cloud Developing  
-- AWS Academy Data Analytics
-
-**Google Cloud:**
-- Machine Learning APIs
-- Large Language Models
-- Prompt Design in Vertex AI
-
----
-
-## 🔬 Research & Publications
-
-**"Bias Resistant Retrieval Augmented Generation"**  
-*International Journal of Innovative Research in Science and Technology (IJIRST)*  
-- Focused on bias mitigation in RAG systems using Equitable AI and BiQ techniques
-- Enhanced fairness and equity in AI-generated responses
-
----
-
-<div align="center">
-
-### 🚀 "Building Intelligent Systems That Make a Difference"
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=VigneshKrish16&icon=0&color=6)
-
-</div>
+Fuel: ☕️ Cold brew + 🎧 Lo-fi beats
+Recharge: Cricket 🏏 + retro gaming
