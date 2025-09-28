@@ -6,15 +6,22 @@
 ---
 
 ## 🚀 About Me
-✨ In a realm of data magic, I’m an **ML Sorcerer** who wields  
-**Python 🐍, AWS ☁️, and Generative AI 🧙‍♂️** to craft powerful spells in:  
-- 🔮 **Recommendations** (personalized insights)  
-- 🧾 **Language** (LLMs, RAG, NLP)  
-- 👁 **Vision** (deep learning for CV)  
+👋 Hey, I'm **Vignesh K**  
+AI & Data Science Engineer | Generative AI Explorer | Hackathon Winner  
 
-🎓 **BTech AI & DS — Graduated 2025**  
-🏆 **Hackathon Winner**: Vertex, Reva, CyberX  
-📄 **Blogs**: [Medium](https://vigneshkrish16.medium.com)  
+I craft AI-driven solutions using **Python 🐍 and AWS ☁️**,  
+with a focus on **Generative AI, RAG systems, and scalable ML/DL applications**.  
+Passionate about transforming data into intelligence, insight, and impact.  
+
+💼 What I'm Up To:
+- 🧙‍♂️ Building bias-resistant RAG pipelines with LangChain + Chroma  
+- 🤖 Exploring LLMs & multimodal AI for real-world applications  
+- 🏆 Hackathon Winner: Vertex, Reva, CyberX  
+- 🧪 Strengthening testing with Pytest & CI/CD pipelines  
+- ✍️ Writing blogs on [Medium](https://vigneshkrish16.medium.com)  
+- ☕ Coffee + 🎶 Instrumental beats = coding flow  
+
+💡 Motto: *I code for food* 🍲  
 
 ---
 
