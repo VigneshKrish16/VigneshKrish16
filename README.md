@@ -1,7 +1,8 @@
 <!-- README.md for VigneshKrish16 -->
 
 <!-- Typing animated header (readme-typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Vignesh+K;AI+%26+Data+Science+Engineer+%7C+Generative+AI+Explorer;ML+%7C+DL+%7C+RAG+%7C+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Vignesh+K;AI+%26+Data+Science+Engineer;Generative+AI+Explorer;ML+%7C+DL+%7C+RAG+%7C+LLMs)](https://git.io/typing-svg)
+
 
 ---
 
