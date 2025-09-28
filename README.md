@@ -37,7 +37,6 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
     </td>
     <td>
@@ -54,7 +53,6 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -74,15 +72,10 @@
       <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/Pinecone-2C2D72?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-      <img src="https://img.shields.io/badge/Weaviate-00BFA5?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate"/>
       <img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Chroma"/>
-      <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=wandb&logoColor=black" alt="W&B"/>
     </td>
   </tr>
 
@@ -93,7 +86,6 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Codecov-F868A6?style=for-the-badge&logo=codecov&logoColor=white" alt="Codecov"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
