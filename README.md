@@ -92,22 +92,6 @@
 
 ---
 
-## 🐍 GitHub Snake (Dynamic)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub Snake" src="dist/github-snake.svg" />
-</picture>
-
-
----
-
-### 🌌 3D Contribution Graph
-<img alt="3D Contribution Graph" src="https://github.com/VigneshKrish16/VigneshKrish16/raw/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VigneshKrish16&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170"/>
