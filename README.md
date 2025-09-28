@@ -9,7 +9,7 @@
 - ☁️ Skilled in **Cloud (AWS)**, building **AI-driven platforms**, and **RAG systems**  
 - 🏆 Hackathon Winner @ **Vertex Booming Hackathon, Reva Hackathon, CyberX**  
 - 💡 Working on projects like **RAG Enhanced Retrieval Engine**, **All Disease Risk Prediction Model**, **CareSync - AI in Health Insurance**  
-- 💼 Full-Stack Developer | AI Enthusiast | Open-Source Advocate
+- 💼 AI Enthusiast | Open-Source Advocate
 - 🔭 Currently diving deep into **LLMs (OpenAI, Claude, Gemini)** and building **AI-powered applications**
 - ⚡ Obsessed with **clean code, scalable systems**, and bridging the gap between ideas and execution
 
@@ -114,3 +114,9 @@ Projects in Progress:
 
 Fuel: ☕️ Cold brew + 🎧 Lo-fi beats
 Recharge: Cricket 🏏 + retro gaming
+
+
+📈 GitHub Activity
+<div align="center">
+
+</div>
