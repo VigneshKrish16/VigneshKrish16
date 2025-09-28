@@ -3,27 +3,44 @@
 <!-- Typing animated header (readme-typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Vignesh+K;AI+%26+Data+Science+Engineer;Generative+AI+Explorer;ML+%7C+DL+%7C+RAG+%7C+LLMs)](https://git.io/typing-svg)
 
----
+## 🚀 About Me  
 
-## 🚀 About Me
-👋 Hey, I'm **Vignesh K**  
-AI & Data Science Engineer | Generative AI Explorer | Hackathon Winner  
+<div align="center">
 
-I craft AI-driven solutions using **Python 🐍 and AWS ☁️**,  
-with a focus on **Generative AI, RAG systems, and scalable ML/DL applications**.  
-Passionate about transforming data into intelligence, insight, and impact.  
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>  
+  Hey, I'm <span style="color:#FF5733;">Vignesh K</span>  
+</h2>  
 
-💼 What I'm Up To:
-- 🧙‍♂️ Building bias-resistant RAG pipelines with LangChain + Chroma  
-- 🤖 Exploring LLMs & multimodal AI for real-world applications  
-- 🏆 Hackathon Winner: Vertex, Reva, CyberX  
-- 🧪 Strengthening testing with Pytest & CI/CD pipelines  
-- ✍️ Writing blogs on [Medium](https://vigneshkrish16.medium.com)  
-- ☕ Coffee + 🎶 Instrumental beats = coding flow  
-
-💡 Motto: *I code for food* 🍲  
+💻 AI & Data Science Engineer | ⚡ Generative AI Explorer | 🏆 Hackathon Winner  
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=I+craft+AI-driven+solutions;Generative+AI+%7C+RAG+%7C+LLMs+%7C+ML%2FDL;Python+%7C+FastAPI+%7C+AWS+%7C+LangChain" alt="Typing Animation" />
+</p>
+
+---
+
+### 🧙 What I'm Up To
+- 🌀 <b>Bias-resistant RAG pipelines</b> → LangChain + Chroma  
+- 🤖 <b>LLMs & Multimodal AI</b> for real-world applications  
+- 🏆 <b>Hackathon Winner</b>: Vertex, Reva, CyberX  
+- 🧪 <b>Testing</b> with Pytest & CI/CD pipelines  
+- ✍️ <b>Sharing knowledge</b> on <a href="https://vigneshkrish16.medium.com" target="_blank">Medium</a>  
+- ☕ + 🎶 <b>Instrumental beats</b> = coding flow  
+
+---
+
+### 💡 Motto
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00FFCC&center=true&vCenter=true&width=600&lines=I+code+for+food+🍲" alt="Motto Animation" />
+</p>
+
+---
+
+</div>
+
 
 ## 🌐 Connect with Me
 <p align="center">
