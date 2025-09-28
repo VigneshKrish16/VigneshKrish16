@@ -105,3 +105,90 @@ Use `<picture>` so GitHub shows the correct image in light/dark mode:
   <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="./output/github-contribution-grid-snake.svg" />
 </picture>
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VigneshKrish16&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170"/> <img src="https://streak-stats.demolab.com?user=VigneshKrish16&theme=radical&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshKrish16&layout=compact&theme=radical&hide_border=true" height="160"/> </p>
+🚀 About Me
+
+🎓 BTech AI & DS — Graduated 2025
+
+🤖 Focus: Generative AI, LLMs, RAG, Multimodal AI
+
+🏆 Hackathon Winner: Vertex, Reva, CyberX
+
+📄 Blogs: Medium — vigneshkrish16.medium.com
+
+
+---
+
+## 2) GitHub Action — **Snake** (save as `.github/workflows/snake.yml`)
+
+```yaml
+name: Generate GitHub Contribution Snake
+on:
+  schedule:
+    - cron: '0 0 * * *'     # daily (UTC) - adjust if you want
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate snake SVGs (light + dark)
+        uses: Platane/snk@v3
+        with:
+          # github_user_name: default is repository owner
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/*.svg || true
+          if git commit -m "chore: update contribution-snake svgs" ; then
+            git push
+          else
+            echo "No changes to commit"
+          fi
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"   # daily at 18:00 UTC (adjust or remove schedule if desired)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate 3d profile contribution images
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/* || true
+          if git commit -m "chore: update profile-3d images"; then
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
