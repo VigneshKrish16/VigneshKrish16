@@ -3,20 +3,26 @@
 <!-- Typing animated header (readme-typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Vignesh+K;AI+%26+Data+Science+Engineer;Generative+AI+Explorer;ML+%7C+DL+%7C+RAG+%7C+LLMs)](https://git.io/typing-svg)
 
----
+```yaml
+I wield Python 🐍, AWS ☁️, and Generative AI 🧙‍♂️ to craft powerful solutions in:
+    - 🔮 Recommendations (personalized insights)
+    - 🧾 Language (LLMs, RAG, NLP)
+    - 👁 Vision (deep learning for CV)
 
-## 🚀 About Me
-✨ In a realm of data magic, I’m an **ML Sorcerer** who wields  
-**Python 🐍, AWS ☁️, and Generative AI 🧙‍♂️** to craft powerful spells in:  
-- 🔮 **Recommendations** (personalized insights)  
-- 🧾 **Language** (LLMs, RAG, NLP)  
-- 👁 **Vision** (deep learning for CV)  
+  🎓 BTech in AI & DS — Graduated 2025  
+  🏆 Hackathon Winner: Vertex, Reva, CyberX  
+  ✍️ Blogs: Medium (https://vigneshkrish16.medium.com)
 
-🎓 **BTech AI & DS — Graduated 2025**  
-🏆 **Hackathon Winner**: Vertex, Reva, CyberX  
-📄 **Blogs**: [Medium](https://vigneshkrish16.medium.com)  
+💼 What I'm Up To:
+  - Exploring RAG pipelines & bias-resistant AI
+  - Building scalable ML/DL systems with PyTorch & TensorFlow
+  - Experimenting with LLM orchestration (LangChain, ChromaDB)
+  - Writing technical blogs on AI, ML, and GenAI
+  - Fuel: ☕ Cold brew + 🎶 Lo-fi beats
+  - Recharge: Cricket 🏏 + Gaming 🎮
 
----
+  🚀 Let's Build the Future with Equitable AI
+```
 
 ## 🌐 Connect with Me
 <p align="center">
