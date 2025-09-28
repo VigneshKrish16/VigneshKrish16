@@ -92,10 +92,15 @@
 
 ---
 
-## 🌀 Fun Animations
-
 ### 🐍 Contribution Snake
-<img alt="github-snake" src="https://github.com/VigneshKrish16/VigneshKrish16/raw/main/output/github-contribution-grid-snake.svg" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+  <img alt="github-snake" src="./dist/github-snake.svg" />
+</picture>
+
+---
 
 ### 🌌 3D Contribution Graph
 <img alt="3D Contribution Graph" src="https://github.com/VigneshKrish16/VigneshKrish16/raw/main/profile-3d-contrib/profile-night-rainbow.svg" />
