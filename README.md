@@ -3,6 +3,18 @@
 <!-- Typing animated header (readme-typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Vignesh+K;AI+%26+Data+Science+Engineer;Generative+AI+Explorer;ML+%7C+DL+%7C+RAG+%7C+LLMs)](https://git.io/typing-svg)
 
+---
+
+## 🚀 About Me
+✨ In a realm of data magic, I’m an **ML Sorcerer** who wields  
+**Python 🐍, AWS ☁️, and Generative AI 🧙‍♂️** to craft powerful spells in:  
+- 🔮 **Recommendations** (personalized insights)  
+- 🧾 **Language** (LLMs, RAG, NLP)  
+- 👁 **Vision** (deep learning for CV)  
+
+🎓 **BTech AI & DS — Graduated 2025**  
+🏆 **Hackathon Winner**: Vertex, Reva, CyberX  
+📄 **Blogs**: [Medium](https://vigneshkrish16.medium.com)  
 
 ---
 
@@ -100,11 +112,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshKrish16&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
-
----
-
-## 🚀 About Me
-- 🎓 BTech AI & DS — Graduated 2025  
-- 🤖 Focus: Generative AI, LLMs, RAG, Multimodal AI  
-- 🏆 Hackathon Winner: Vertex, Reva, CyberX  
-- 📄 Blogs: [Medium](https://vigneshkrish16.medium.com)  
