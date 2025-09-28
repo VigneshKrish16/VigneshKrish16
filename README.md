@@ -3,6 +3,8 @@
 <!-- Typing animated header (readme-typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Vignesh+K;AI+%26+Data+Science+Engineer;Generative+AI+Explorer;ML+%7C+DL+%7C+RAG+%7C+LLMs)](https://git.io/typing-svg)
 
+
+
 ```yaml
 about:
   intro: >
@@ -15,11 +17,10 @@ about:
   current_focus:
     - "Forging bias-resistant RAG pipelines & equitable AI"
     - "Engineering scalable ML/DL systems with PyTorch & TensorFlow"
-    - "Orchestrating LLM magic with LangChain & ChromaDB"
-    - "Sharing wisdom through technical blogs & hackathon battles"
-    - "Fuel: ☕ Cold brew + 🎶 Lo-fi beats"
+    - "Orchestrating LLM magic with LangChain"
+    - "Sharing wisdom through technical blogs"
     - "Recharge: Cricket 🏏 + Retro Gaming 🎮"
-  motto: "✨ I code for food 🍲, but dream to feed the future with AI 🚀"
+  motto: "✨ I code for food 🍲"
 
 ```
 
